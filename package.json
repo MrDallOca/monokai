@@ -1,12 +1,30 @@
 {
-  "name": "monokai",
+  "name": "mr-monokai",
   "theme": "syntax",
-  "version": "0.18.0",
+  "version": "1.0.0",
   "private": true,
-  "description": "A monokai theme",
-  "repository": "https://github.com/kevinsawicki/monokai",
+  "description": "A Mr. monokai theme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDallOca/monokai.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">0.39.0"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/MrDallOca/monokai/issues"
+  },
+  "homepage": "https://github.com/MrDallOca/monokai#readme",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
   }
 }
